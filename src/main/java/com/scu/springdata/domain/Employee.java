@@ -12,7 +12,7 @@ import javax.persistence.Table;
  * @time 上午11:12:40 雇员实体
  */
 @Entity
-@Table(name = "test_employee")
+//@Table(name = "test_employee")
 public class Employee {
 
 	private Integer id;
